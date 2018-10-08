@@ -1,0 +1,17 @@
+{
+  "name": "xfish",
+  "version": "0.0.1",
+  "description": "An new way to write cms by egg & umi & swagger.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/okoala/xfish"
+  },
+  "homepage": "https://github.com/okoala/xfish",
+  "authors": [
+    "okoala <dapixp@gmail.com> (https://github.com/okoala)"
+  ],
+  "bugs": {
+    "url": "https://github.com/okoala/xfish/issues"
+  }
+}
